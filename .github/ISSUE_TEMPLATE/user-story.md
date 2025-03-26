@@ -1,12 +1,3 @@
----
-name: user-story
-about: User Store
-title: User story
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
